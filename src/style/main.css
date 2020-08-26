@@ -1,0 +1,10 @@
+body{
+    background: url('https://static.vecteezy.com/system/resources/thumbnails/000/118/777/small/retro-chainmail-pattern-background.jpg');
+}
+.list-body{
+    padding: 2px;
+
+}
+.tv-show, .movie-item{
+    cursor: pointer;
+}
